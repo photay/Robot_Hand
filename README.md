@@ -1,4 +1,4 @@
-# Robot_Hand_Phys124
+# Robot_Hand
 
 This was a 6-week class project for my Physics 124 class where students were allowed to build anything. The only requirements was that our project had to take an input, process that input, and provide an output as a response. 
 
